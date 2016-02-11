@@ -27,6 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-runtime": "^5.8.25",
+    "fetch-ie8": "^1.4.1",
     "isomorphic-fetch": "^2.1.1",
     "lodash.isplainobject": "^3.2.0"
   },
